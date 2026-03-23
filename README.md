@@ -165,10 +165,3 @@ Opens a chat interface at `http://localhost:8501`
 > ⚠️ MediAssist is for **educational and informational purposes only**. It does not constitute medical advice, diagnosis, or treatment. Always consult a qualified healthcare professional for proper evaluation and treatment.
 
 ---
-
-## Author
-
-**Dhwanit Chokshi**
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
